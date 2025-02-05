@@ -1,4 +1,3 @@
-```markdown
 # Crime Reports and Census Information Analysis - Oxnard, California
 
 ## 0.1 INTRODUCTION: GETTING STARTED
@@ -28,4 +27,3 @@ The report is divided into two major sections:
 - **US Census Bureau (Census Tract Information)**: Accessed on 1/13/23
 
 This report is intended to provide a well-rounded view of crime and demographics in Oxnard and the surrounding area, helping users gain an understanding of the safety and socio-economic dynamics in this region.
-```
